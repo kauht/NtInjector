@@ -1,7 +1,6 @@
 #include <windows.h>
 #include <print>
 #include <TlHelp32.h>
-#include <winnt.h>
 #pragma comment(lib, "ntdll.lib")
 
 #define STATUS_SUCCESS 0x00000000L
